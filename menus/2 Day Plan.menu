@@ -6,7 +6,7 @@ servings: 6
 
 Breakfast:
 - @./cook/Breakfast/Polenta Grits{6%servings}
-- @./cook/Breakfast/Cubed Tofu{6%servings} with @maple syrup{2%tbsp}
+- @./cook/Breakfast/Breakfast Tofu{6%servings} with @maple syrup{2%tbsp}
 - @toast{8%slices}
 
 Lunch:
