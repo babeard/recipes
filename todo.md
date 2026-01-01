@@ -38,7 +38,6 @@
 - [ ] Bakes Potatoes
 - [ ] Baked Sweet Potatoes
 - [ ] Bean Salad
-- [ ] Refriend Beans
 
 ### Snacks
 - [ ] Muffins
