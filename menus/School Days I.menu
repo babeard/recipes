@@ -1,0 +1,37 @@
+---
+servings: 6
+---
+
+== Monday ==
+
+Breakfast:
+- @./cook/Breakfast/Polenta Grits{6%servings}
+- @./cook/Breakfast/Breakfast Tofu{6%servings}
+- @bread{8%slices}(toasted) + @butter{2%tbsp}
+
+School: @burritos{3}
+
+Lunch:
+
+Dinner:
+
+== Tuesday ==
+
+Breakfast:
+- @./cook/Breakfast/Cream of Wheat{6%servings}
+- @./cook/Partial/Frozen Fruit{6%servings}
+
+== Wednesday ==
+
+Breakfast:
+- @./cook/Breakfast/Oatmeal Plus{6%servings}
+- @./cook/Partial/Frozen Fruit{6%servings}
+
+== Thursday ==
+
+Breakfast:
+- @./cook/Breakfast/Fluffy Pancakes{6%servings} with @maple syrup{2%tbsp}, @butter{1%tbsp},
+@peanut butter{1%tbsp}, @applesauce{2%cups}, @pecans{1%cup}, @chia seeds{1/4%cup}
+
+School:
+- @corn dogs{3}, @ketchup{2%tbsp}, @fruit cups{3}, @trail mix{3}
